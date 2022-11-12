@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Guest starF.png">
+<SubTexture name="sepso0000" x="0" y="0" width="1124" height="290" frameX="-41" frameY="-41" frameWidth="1200" frameHeight="334" />
+<SubTexture name="sepso0001" x="0" y="290" width="1124" height="291" frameX="-41" frameY="-40" frameWidth="1200" frameHeight="334" />
+<SubTexture name="sepso0002" x="0" y="581" width="1124" height="292" frameX="-41" frameY="-39" frameWidth="1200" frameHeight="334" />
+<SubTexture name="sepso0003" x="0" y="873" width="1124" height="292" frameX="-41" frameY="-39" frameWidth="1200" frameHeight="334" />
+<SubTexture name="sepso0004" x="0" y="1165" width="1124" height="293" frameX="-41" frameY="-38" frameWidth="1200" frameHeight="334" />
+<SubTexture name="sepso0005" x="0" y="1458" width="1124" height="293" frameX="-41" frameY="-38" frameWidth="1200" frameHeight="334" />
+<SubTexture name="sepso0006" x="0" y="1751" width="1124" height="292" frameX="-41" frameY="-39" frameWidth="1200" frameHeight="334" />
+</TextureAtlas>

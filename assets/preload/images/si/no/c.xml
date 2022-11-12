@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Guest starC.png">
+<SubTexture name="Guest starC0000" x="646" y="302" width="323" height="301" frameX="-53" frameY="-59" frameWidth="395" frameHeight="400" />
+<SubTexture name="Guest starC0001" x="646" y="0" width="323" height="302" frameX="-53" frameY="-58" frameWidth="395" frameHeight="400" />
+<SubTexture name="Guest starC0002" x="323" y="312" width="323" height="305" frameX="-53" frameY="-55" frameWidth="395" frameHeight="400" />
+<SubTexture name="Guest starC0003" x="0" y="312" width="323" height="309" frameX="-53" frameY="-51" frameWidth="395" frameHeight="400" />
+<SubTexture name="Guest starC0004" x="323" y="0" width="323" height="311" frameX="-53" frameY="-49" frameWidth="395" frameHeight="400" />
+<SubTexture name="Guest starC0005" x="0" y="0" width="323" height="312" frameX="-53" frameY="-48" frameWidth="395" frameHeight="400" />
+</TextureAtlas>

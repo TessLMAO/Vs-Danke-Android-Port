@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Guest starD.png">
+<SubTexture name="Guest starD0000" x="0" y="0" width="524" height="628" frameX="-56" frameY="-29" frameWidth="631" frameHeight="677" />
+<SubTexture name="Guest starD0001" x="524" y="0" width="522" height="630" frameX="-57" frameY="-27" frameWidth="631" frameHeight="677" />
+<SubTexture name="Guest starD0002" x="0" y="630" width="517" height="636" frameX="-60" frameY="-21" frameWidth="631" frameHeight="677" />
+<SubTexture name="Guest starD0003" x="517" y="630" width="521" height="643" frameX="-53" frameY="-14" frameWidth="631" frameHeight="677" />
+<SubTexture name="Guest starD0004" x="0" y="1273" width="507" height="646" frameX="-65" frameY="-11" frameWidth="631" frameHeight="677" />
+<SubTexture name="Guest starD0005" x="507" y="1273" width="504" height="648" frameX="-67" frameY="-9" frameWidth="631" frameHeight="677" />
+<SubTexture name="Guest starD0006" x="0" y="1921" width="521" height="643" frameX="-53" frameY="-14" frameWidth="631" frameHeight="677" />
+</TextureAtlas>
