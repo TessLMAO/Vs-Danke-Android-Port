@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-26,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "le"
+		},
+		{
+			"offsets": [
+				17,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "do"
+		},
+		{
+			"offsets": [
+				-7,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ri"
+		},
+		{
+			"offsets": [
+				-23,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "ha",
+			"indices": [],
+			"name": "ha"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "ok",
+			"indices": [],
+			"name": "ok"
+		},
+		{
+			"offsets": [
+				-4,
+				1
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "jia",
+			"indices": [],
+			"name": "jia"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/danke",
+	"position": [
+		-140,
+		-10
+	],
+	"healthicon": "danke",
+	"flip_x": false,
+	"healthbar_colors": [
+		241,
+		186,
+		132
+	],
+	"camera_position": [
+		-80,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
